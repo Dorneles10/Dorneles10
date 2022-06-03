@@ -1,5 +1,5 @@
 - 👋 olá meu nome é João Gabriel.
-- 👀 eu sou interessado em aprender progamare adquirir conhecimientos.
+- 👀 eu sou interessado em aprender progamar adquirir conhecimientos.
 - 🌱 Estou aprendendo a progamar JavaScript e Strach.
 - 💞️ Sou solteiro pq vida de amorosa não tem como.
 - 📫 .Sou bom em tudo e mais um pouco...
